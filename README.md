@@ -26,3 +26,6 @@ Which candidate won the election, what was their vote count, and what was their 
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
+
+Summary:
+This script can be useful for election audit data to audit aspects of the election such as total votes, distribution of votes amongst different candidates and elections, and finding the maximum and even potentially the minimum vote getter as well.  Another modification that could potentially be useful is if the .csv file has any other parameters, we can also aggregate by those as well.  
